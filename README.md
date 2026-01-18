@@ -54,7 +54,7 @@ A comprehensive, structured learning roadmap documenting my path to becoming a M
 ```python
 current_goals = {
     "learning": ["Advanced Python", "ML Algorithms", "AI Infrastructure"],
-    "building": ["Projects", "Problem-Solving Skills"],
+    "building": ["Projects", "Problem-Solving Skills"]
     
 }
 ```
@@ -73,11 +73,6 @@ I'm always excited to connect with fellow ML enthusiasts, researchers, and pract
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/jesilda-braganca-2a4795223)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jesildabraganca@gmail.com)
 
----
-
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jesildabraganca0511&show_icons=true&theme=radical)
 
 ---
 
