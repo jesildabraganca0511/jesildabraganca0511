@@ -1,8 +1,7 @@
 # Hi, I'm Jesilda 👋
 
 🎯 **Aspiring Machine Learning Engineer** | **Trainee at Endure Technology Solutions** | Building AI systems that matter  
-🎓 **BE in IT with Honours in Data Science** | **Incoming MSc in Computing (AI)** – Dublin City University (Sept 2026)
-
+🎓 **BE in IT with Honours in Data Science** 
 ---
 
 ## 💫 About Me
