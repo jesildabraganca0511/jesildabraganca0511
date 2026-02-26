@@ -1,6 +1,6 @@
 # Hi, I'm Jesilda 👋
 
-🎯 **Aspiring Machine Learning Engineer** | **Jr Data Scientist at Endure Technology Solutions** | Building AI systems that matter  
+🎯 **Jr Data Scientist @ Endure Technology Solutions** | **AI Architect** |  Building AI systems that matter 
 🎓 **BE in IT with Honours in Data Science** 
 ---
 
