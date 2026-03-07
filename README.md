@@ -10,7 +10,7 @@ I'm on a mission to become a Machine Learning Engineer, combining strong technic
 
 - 🔬 **Focus Areas:** Machine Learning, Deep Learning, AI Infrastructure
 - 📚 **Learning Philosophy:** Progress over perfection – showing up consistently, learning in public
-- 🌍 **Based in:** Goa, India → Dublin, Ireland (2026)
+- 🌍 **Based in:** India
 - 💡 **What drives me:** Solving real-world problems through intelligent systems
 
 ---
